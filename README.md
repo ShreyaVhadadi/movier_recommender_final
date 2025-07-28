@@ -27,8 +27,10 @@ This project is a semantic movie recommendation system powered by Large Language
 4. Results are displayed with title, year, overview, and other metadata in the Streamlit UI.
 
 ## Demo Screenshot
+<img width="1335" height="740" alt="result_1" src="https://github.com/user-attachments/assets/aa3d6d39-1432-48c8-8b66-041f845dadb2" />
+<img width="1304" height="609" alt="result_2" src="https://github.com/user-attachments/assets/008d8cec-6421-43e6-bb03-2a1d81ec5307" />
 
-![Demo](path/to/your/screenshot.png)
+
 
 ## Getting Started
 
